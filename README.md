@@ -1,3 +1,7 @@
+# To run the project
+In terminal:
+npm run dev
+
 # Frontend Mentor - Todo app
 
 ![Design preview for the Todo app coding challenge](./design/desktop-preview.jpg)
